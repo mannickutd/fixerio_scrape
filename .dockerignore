@@ -1,0 +1,15 @@
+.dockerignore
+Dockerfile
+
+environment_for_test.sh
+requirements_for_test.txt
+tests
+
+*.log
+.DS_Store
+.coverage
+.pylintrc
+.travis.yml
+scripts
+venv
+build
